@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { FaLinkedinIn, FaGithub, FaDiscord, FaMedium, FaTwitter } from "react-icons/fa";
 import { AiOutlineMail } from "react-icons/ai";
+import img2 from './../public/assets/bg.jpeg'
 
 const Contact = () => {
   return (
@@ -16,7 +17,7 @@ const Contact = () => {
             <div className="lg:p-4 h-full">
               <div className="rounded-xl hover:scale-105 ease-in duration-300">
                 <Image
-                  src={siteimg2}
+                  src={img2}
                   alt="/"
                   width="500"
                   height="500"
