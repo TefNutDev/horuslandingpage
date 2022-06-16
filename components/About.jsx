@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-
+import siteimg1 from "./../public/assets/aboutus.png"
 const About = () => {
   return (
     <div id="about" className="w-full md:h-screen p-2 flex items-center py-16">
@@ -29,7 +29,7 @@ const About = () => {
         <div className="w-full m-auto shadow-xl shadow-gray-120 rounded-xl flex items-center p-4 hover:scale-105 ease-in duration-300">
           <Image
             className="rounded-xl"
-            src="https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
+            src={siteimg1}
             alt="/"
           />
         </div>
