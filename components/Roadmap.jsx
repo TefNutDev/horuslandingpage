@@ -27,7 +27,7 @@ const Roadmap = () => {
                   (ii) The Big Bang of Kava - Participate in leading projects
                   launching through Horus Finance . Several ways to launch (ie
                   auction, genesis pool, overflow) will be available to suit
-                  different team`&#39;`s needs. Launched protocols go through rigorous
+                  different team&#39;s needs. Launched protocols go through rigorous
                   due diligence to ensure we only provide the best opportunities
                   to you
                 </p>
@@ -51,7 +51,7 @@ const Roadmap = () => {
                 <p>
                   (ii) Fluid Staking - Stake your $KAVA & $HORUS in our native
                   pools with a validator. Generate additional APR while
-                  supporting the system`&#39;`s stability.
+                  supporting the system&#39;s stability.
                 </p>
               </div>
             </div>
