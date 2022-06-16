@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { FaLinkedinIn, FaGithub, FaDiscord, FaMedium, FaTwitter } from "react-icons/fa";
 import { AiOutlineMail } from "react-icons/ai";
+import swap from "./public/assets/swap.png";
 
 const Contact = () => {
   return (
@@ -17,7 +18,7 @@ const Contact = () => {
               <div>
                 <Image
                   className="rounded-xl hover:scale-105 ease-in duration-300"
-                  src="https://images.unsplash.com/photo-1559030623-0226b1241edd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
+                  src={swap}
                   alt="/"
                 />
               </div>
