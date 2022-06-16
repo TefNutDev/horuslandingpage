@@ -31,6 +31,8 @@ const About = () => {
             className="rounded-xl"
             src={siteimg1}
             alt="/"
+            width="500"
+            height="500"
           />
         </div>
       </div>
