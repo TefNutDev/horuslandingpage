@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import img2 from './../public/assets/bg.jpeg'
 
 const About = () => {
   return (
@@ -28,7 +29,7 @@ const About = () => {
         </div>
         <div className="w-full m-auto shadow-xl shadow-gray-120 rounded-xl flex items-center p-4 hover:scale-105 ease-in duration-300">
           <Image
-            src={siteimg1}
+            src={img2}
             alt="/"
             width="500"
             height="500"
