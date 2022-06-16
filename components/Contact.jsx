@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { FaLinkedinIn, FaGithub, FaDiscord, FaMedium, FaTwitter } from "react-icons/fa";
 import { AiOutlineMail } from "react-icons/ai";
-import swap from "./../public/assets/swap.png";
+import siteimg2 from "./../public/assets/contactus.png";
 
 const Contact = () => {
   return (
@@ -18,7 +18,7 @@ const Contact = () => {
               <div>
                 <Image
                   className="rounded-xl hover:scale-105 ease-in duration-300"
-                  src={swap}
+                  src={siteimg2}
                   alt="/"
                 />
               </div>
