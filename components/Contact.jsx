@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { FaLinkedinIn, FaGithub, FaDiscord, FaMedium, FaTwitter } from "react-icons/fa";
 import { AiOutlineMail } from "react-icons/ai";
-import swap from "./public/assets/swap.png";
+import swap from "./../public/assets/swap.png";
 
 const Contact = () => {
   return (
