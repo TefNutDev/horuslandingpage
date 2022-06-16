@@ -20,6 +20,8 @@ const Contact = () => {
                   className="rounded-xl hover:scale-105 ease-in duration-300"
                   src={siteimg2}
                   alt="/"
+                  width="500"
+                  height="500"
                 />
               </div>
               <div></div>
